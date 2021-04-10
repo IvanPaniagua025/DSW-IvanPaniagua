@@ -5,7 +5,7 @@
 
 main {
     display: grid;
-    grid-template-columns: 40% 30% 29%;
+    grid-template-columns: 40% 30% 29% ;
     gap: 0.5em;
 }
 
